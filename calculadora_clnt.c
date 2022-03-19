@@ -3,6 +3,7 @@
  * It was generated using rpcgen.
  */
 
+
 #include <memory.h> /* for memset */
 #include "calculadora.h"
 
