@@ -17,4 +17,5 @@ xdr_inputs (XDR *xdrs, inputs *objp)
 	 if (!xdr_int (xdrs, &objp->Numero2))
 		 return FALSE;
 	return TRUE;
+	
 }
