@@ -1,7 +1,7 @@
 struct inputs{
-	char Operacion;
-	int Numero1;
-	int Numero2;
+	char Operacion;//parametros
+	int Numero1;//número ingresado
+	int Numero2;//número ingresdo
 };
 
 program CALCULADORA_PROG{
