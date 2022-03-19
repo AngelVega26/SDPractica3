@@ -4,6 +4,7 @@
 int calculadora_prog_1(char *host,int Numero1,int Numero2,char Operacion,CLIENT *clnt)
 {
   
+	
  int *result_1;
  inputs suma_1_arg;
  int *result_2;
